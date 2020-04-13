@@ -1,0 +1,5 @@
+*.exe
+*.db
+*.opendb
+Debug/
+x64/
