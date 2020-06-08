@@ -3,3 +3,4 @@
 *.opendb
 Debug/
 x64/
+*.ipch
